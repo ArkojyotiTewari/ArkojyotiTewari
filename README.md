@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arko jyoti tewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arko jyoti tewari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arkojyoti tewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkojyoti tewari" height="30" width="40" /></a>
 <a href="https://kaggle.com/arko jyoti tewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arko jyoti tewari" height="30" width="40" /></a>
 <a href="https://instagram.com/arkojyotitewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkojyotitewari" height="30" width="40" /></a>
 </p>
