@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **arkojyotit@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ArkojyotiTewari/Resume_Arkojyoti_Tewari/blob/main/Resume_ArkojyotiTewari.pdf](https://github.com/ArkojyotiTewari/Resume_Arkojyoti_Tewari/blob/main/Resume_ArkojyotiTewari.pdf)
+- 📄 Know about my experiences [[https://github.com/ArkojyotiTewari/Resume_Arkojyoti_Tewari/blob/main/Resume_ArkojyotiTewari.pdf](https://github.com/ArkojyotiTewari/MyResume/blob/main/Resume%20Arkojyoti%20Tewari_Final_Updated.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
